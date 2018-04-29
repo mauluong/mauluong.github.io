@@ -9,15 +9,6 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-{% assign category = site.my_categories | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
-{% endif %}
-
-
-
-
 <div class="container">
 	<div class="row">
 
@@ -71,10 +62,21 @@ post_class: post-template
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
                 </small>
-            </p>
-            
+            </p>	
 			
-			<p id="post-meta">{{ category_content }}</p>
+			
+            <!-- Post Categories -->
+			<div class="after-post-tags">
+				<ul class="tags">
+                    {% assign sortedCategories = page.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <li>
+                     <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+                    </li>
+                    {% endfor %}
+				</ul>
+			</div>
+	<!-- End Categories -->
             
 			
 
