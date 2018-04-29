@@ -32,15 +32,16 @@ authors:
 # Plugins
 plugins: 
   - jekyll-paginate
-  - jekyll-archives
     
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
+
+# Where things are
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
+  my_tags:
+    output: true
+permalink: /blog/tag/:name/
     
 # Other
 markdown: kramdown
