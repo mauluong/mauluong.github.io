@@ -2,7 +2,7 @@
 layout: post
 title:  "Tree of Codes"
 author: sal
-category: jekyll
+categories: jekyll
 tags: jekyll
 image: assets/images/9.jpg
 ---
