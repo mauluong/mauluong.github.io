@@ -40,7 +40,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-category: '/categories/:name/'
+category: '/category/:name/'
     
     
 # Other
