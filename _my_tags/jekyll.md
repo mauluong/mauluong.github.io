@@ -1,4 +1,0 @@
-﻿---
-slug: jekyll
-name: Jekyll
----
