@@ -4,6 +4,10 @@ disqus: false
 archive: false
 post_class: post-template
 ---
+{% assign post = page %}
+{% capture post_subtitle %}<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b. %d, %Y' }}</time>{% endcapture %}
+
+{% include title_header.html title=post.title subtitle=post_subtitle %}
 
 <!-- Begin Article
 ================================================== -->
@@ -72,6 +76,10 @@ post_class: post-template
 			</div>
 			<!-- End Categories -->
             
+			<p id="post-meta">{{ category_content }}</p>
+
+
+			
             <!-- Prev/Next -->
             <div class="row PageNavigation">
               {% if page.previous.url %}
