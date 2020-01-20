@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Markdown Example"
+published: false
 author: john
 categories: jekyll
 image: assets/images/10.jpg
