@@ -6,7 +6,9 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
-Ngồi nhìn lại năm 2019 thấy  
+ngồi nhìn lại năm 2019 không hiểu mình vượt qua nó kiểu gì luôn :smile:
+
+> Nếu như đều phải chết thì sao người ta còn phải sống để làm gì?
 
 
 ## Special formatting
