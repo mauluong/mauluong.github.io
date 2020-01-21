@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Finally!!! I did it"
+title:  "[2019 RECAP] - Kết thúc chặng đường đầu tiên.. "
 published: true
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
-Tét font tiếng việt.
+Ngồi nhìn lại năm 2019 thấy  
 
 
 ## Special formatting

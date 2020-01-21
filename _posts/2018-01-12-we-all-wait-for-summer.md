@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We all wait for summer"
-published: false
+published: true
 author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg

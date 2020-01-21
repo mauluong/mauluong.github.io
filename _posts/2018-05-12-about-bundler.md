@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Bundler"
-published: false
+published: true
 author: sal
 categories: [ Jekyll ]
 image: assets/images/2.jpg

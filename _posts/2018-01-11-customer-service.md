@@ -2,7 +2,7 @@
 layout: post
 title:  "Inception Movie"
 author: john
-published: false
+published: true
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg

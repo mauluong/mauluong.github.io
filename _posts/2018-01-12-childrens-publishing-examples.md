@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Strange Adventures of a Pebble"
-published: false
+published: true
 author: john
 categories: jekyll
 image: assets/images/2.jpg
