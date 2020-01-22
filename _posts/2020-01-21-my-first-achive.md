@@ -19,12 +19,17 @@ Năm nhất, năm hai tôi có 2 cuộc sống kiểu kiểu như là song song:
 
 ![walking]({{ site.baseurl }}/assets/images/thanhml.jpg)
 
-+ Thứ 2 là: câu lạc bộ iGo và Color Team, tham gia các hoạt động được một năm, nhớ nhất là những lần đi tình nguyện ỏ Quan Hóa vì đây chuyến tình nguyện xa đầu tiên và cũng là lần đầu tiên mình biết tiểu lượng của mình không phải dạng vừa =)) (chắc thừa hưởng từ bố). Nhưng rồi cũng chỉ được một năm, vì trầm tính và kém giao tiếp, bản thân dần dần tách biệt và ngưng hoạt động .Đến giờ cũng cảm thấy tiếc nuối và có lỗi với mọi người..
++ Thứ 2 là: câu lạc bộ iGo và Color Team, tham gia các hoạt động được một năm, nhớ nhất là lần đi tình nguyện ỏ Quan Hóa vì đây chuyến tình nguyện xa đầu tiên và cũng là lần đầu tiên mình biết tiểu lượng của mình không phải dạng vừa =)) (chắc thừa hưởng từ bố). Nhưng rồi cũng chỉ được một năm, vì trầm tính và kém giao tiếp, bản thân dần dần tách biệt và ngưng hoạt động .Đến giờ cũng cảm thấy tiếc nuối và có lỗi với mọi người..
 
 ![walking]({{ site.baseurl }}/assets/images/colorteam.jpg)
 ![walking]({{ site.baseurl }}/assets/images/igo.jpg)
 
+Sang giữa năm 3 bắt đầu kỳ thực tập. Lúc đầu tôi chọn NashTech trên Hà nội, buổi đầu tiên đến khá là hứng thú vì các bài test với phỏng vấn ở đây khá hay, mình đậu..nhưng lại là fresher dành cho sinh viên mới ra trường, yêu cầu phải làm fulltime. Quyết định cuối cùng của tôi là thực tập ngay tại Fsoft Hòa Lạc (Cách trường 1,2km). Thời điểm bắt đầu đi thực tập tôi bắt đầu ra ở 1 mình, sáng đi học chiều đi làm, tôi khá may mắn khi làm ở 1 BU có môi trường rất thoải mái và vui vẻ, (mà kể từ thời đấy đến giờ mình vẫn vui vẻ đi làm, chắc do yêu nghề + môi trường fsoft). Nghỉ giữa 2 kỳ cũng ít về mà ở lại làm fulltime luôn, cuộc sống cứ vậy trôi qua.  Kể từ lúc này tôi nghiện làm việc, nghiện bận rộn và nghiện ở 1 mình, và cũng từ lúc thực tập tôi cũng không còn xin tiền bố mẹ nữa.
 
+Mọi chuyện cứ thế trôi qua cho đến tháng 5/2019, chuyển qua dự án mới, công nghệ mới, team dev lúc đó chỉ có một mình, dự án này cũng làm việc với end-user nên business lúc đó cũng chưa ngon, PM thì lúc đó đang cân 2 dự án, thành ra hằng này sáng đi học chiều lên ngồi "Cãi nhau" với bà BA(Business Analyst) hết bà nó cả buổi chiều...bận rộn hơn, tress hơn, thật sự mệt mỏi vl, nhiều lúc đ buồn cãi nữa luôn. 
+Đến tháng 8 thì tiếp tục bắt đầu đồ án. 2 tháng đầu kỳ đồ án vẫn đi làm bình thường..Sáng đi học, chiều đi làm, tối làm đồ án :expressionless: thật sự đợt này oải vl. mặc dù có giấy miễn điểm danh cho sinh viên vừa học vừa làm, tức là chỉ cần đi học 20% thôi nhưng mà thực tế mà đéoooo. Trường xếp mấy môn vohox vcl, có những môn ngày méo nào cũng lấy điểm :( 
+Đồ án của nhóm tôi là xây dựng hệ thống chấm điểm tự động cho phòng lab của trường, team đồ án có 5 người, nhưng 4 người đều đi làm thêm nên 1 bạn không đi làm thêm làm PM và lead luôn phần documents. Lúc đầu mình khá là tự tin là team sẽ làm nên trò trống gì đó vì thấy team những 4 đứa đi đều đi làm đều gần 1 năm kinh nghiệm đi làm rồi. Nhưng mọi chuyện không như mình nghĩ, 4 tháng đồ án thì 2 tháng đầu hầu như là chẳng làm được gì, rồi conflic về việc làm tới đâu, mình thì muốn làm ra ngô ra khoai, ít nhất thì làm xong sản phẩm không phải là một thứ gì đó vứt đi. Lúc này do mình là lead phần code nên rất tress, phần nhiều là do chia task coding và thúc dục mọi người làm việc và team không đồng lòng.
+Đợt đấy gia đình tôi còn sảy ra một biến cố về tiền nong nữa. Nhiều thứ tích tụ lại đâm ra tạo thành thói quen mất ngủ. Đêm nào cũng nằm suy nghĩ lung tung..
 :
 
 + ~~strike through~~
