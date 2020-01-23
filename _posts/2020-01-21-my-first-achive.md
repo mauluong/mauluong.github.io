@@ -28,8 +28,13 @@ Sang giữa năm 3 bắt đầu kỳ thực tập. Lúc đầu tôi chọn NashT
 
 Mọi chuyện cứ thế trôi qua cho đến tháng 5/2019, chuyển qua dự án mới, công nghệ mới, team dev lúc đó chỉ có một mình, dự án này cũng làm việc với end-user nên business lúc đó cũng chưa ngon, PM thì lúc đó đang cân 2 dự án, thành ra hằng này sáng đi học chiều lên ngồi "Cãi nhau" với bà BA(Business Analyst) hết bà nó cả buổi chiều...bận rộn hơn, tress hơn, thật sự mệt mỏi vl, nhiều lúc đ buồn cãi nữa luôn. 
 Đến tháng 8 thì tiếp tục bắt đầu đồ án. 2 tháng đầu kỳ đồ án vẫn đi làm bình thường..Sáng đi học, chiều đi làm, tối làm đồ án :expressionless: thật sự đợt này oải vl. mặc dù có giấy miễn điểm danh cho sinh viên vừa học vừa làm, tức là chỉ cần đi học 20% thôi nhưng mà thực tế mà đéoooo. Trường xếp mấy môn vohox vcl, có những môn ngày méo nào cũng lấy điểm :( 
+    
 Đồ án của nhóm tôi là xây dựng hệ thống chấm điểm tự động cho phòng lab của trường, team đồ án có 5 người, nhưng 4 người đều đi làm thêm nên 1 bạn không đi làm thêm làm PM và lead luôn phần documents. Lúc đầu mình khá là tự tin là team sẽ làm nên trò trống gì đó vì thấy team những 4 đứa đi đều đi làm đều gần 1 năm kinh nghiệm đi làm rồi. Nhưng mọi chuyện không như mình nghĩ, 4 tháng đồ án thì 2 tháng đầu hầu như là chẳng làm được gì, rồi conflic về việc làm tới đâu, mình thì muốn làm ra ngô ra khoai, ít nhất thì làm xong sản phẩm không phải là một thứ gì đó vứt đi. Lúc này do mình là lead phần code nên rất tress, phần nhiều là do chia task coding và thúc dục mọi người làm việc và team không đồng lòng.
 Đợt đấy gia đình tôi còn sảy ra một biến cố về tiền nong nữa. Nhiều thứ tích tụ lại đâm ra tạo thành thói quen mất ngủ. Đêm nào cũng nằm suy nghĩ lung tung..
+
+- 6 tháng cuối cùng của năm 2019 tôi đã thay đổi nhiều về nhận thức:
+- từ người anh HoangV nhận ra mình phải điểm tĩnh hơn và quan trọng nhất là luôn luôn suy nghĩ tích cực, luôn luôn happy(cái này cần phải có thời gian vì cái tính rất nghiêm túc trong công việc)
+- Nhận ra tồn tại thì dễ còn sống thì thực sự lại rất khó, nhận ra bản thân rất hay mất các mối quan hệ
 :
 
 + ~~strike through~~
