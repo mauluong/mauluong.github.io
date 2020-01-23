@@ -6,6 +6,10 @@ author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
+> Nếu như ai rồi cũng phải chết thì sao ta vãn phải sống để làm gì nhỉ?
+
+Năm 2019 đã giúp tôi trả lời câu hỏi trên rằng vì: Cuộc sống chính là trải nghiệm, nếu sống mà không có trải nghiệm, không có thử thách thì chỉ là sự tồn tại.
+
 Cuối cùng thì chặng đường thứ nhất của bản thân đã hoàn thành, tuy đến những phút cuối mới thấy tiếc nuối một số thứ nhưng mọi thứ cũng đã kết thúc. 
 
 
@@ -32,10 +36,10 @@ Mọi chuyện cứ thế trôi qua cho đến tháng 5/2019, chuyển qua dự 
 Đợt đấy gia đình tôi còn sảy ra một biến cố về tiền nong, rồi việc hợp đồng cũ với Fsoft hết hạn, và phải trả lời trong thời gian gấp. 
 Nhiều thứ tích tụ lại đâm ra tạo thành thói quen mất ngủ. Đêm nào cũng nằm suy nghĩ lung tung rất nhiều..
 
-> Nếu như ai rồi cũng phải chết thì sao ta vãn phải sống để làm gì nhỉ?
-
-Năm 2019 đã giúp tôi trả lời câu hỏi trên rằng vì: Cuộc sống chính là trải nghiệm, nếu sống mà không có trải nghiệm, không có thử thách thì chỉ là sự tồn tại.
-
+Suy nghĩ nhiều rồi nhận ra lâu nay mình đang sống vì bản thân mình nhiều, chưa nghĩ đến những người xung quanh. Nhận ra bản thân có rất nhiều điểm yếu, điển hình là việc giao tiếp rất tệ, nhiều người bảo tôi nhát, nhưng thực ra là do tôi không biết giao tiếp, không biết phải bắt đầu từ đâu, thành ra đôi khi rất sợ phải giao tiếp, nhất là giao tiếp nói 1vs1, hoặc cũng có thể do sợ giao tiếp dẫn đến nhát.. Chính vì thế có rất nhiều mối quan hệ cũng dần dần mất đi..
+Suy nghĩ nhiều rồi cũng vỡ ra nhiều điều:
+- Thay đổi lớn nhất có lẽ là ở mọi tình huống, tôi luôn cố gắng nhìn mặt tích cực trước, hoặc tìm ra những thứ tích cực, suy nghĩ tích cực hơn, điềm tĩnh hơn. Nói là cố gắng bởi vì bản thân vẫn chưa làm được..
+- Từ những người mình gặp, làm việc
 - 
 - Từ người anh HoangV nhận ra mình phải điểm tĩnh hơn và quan trọng nhất là luôn luôn suy nghĩ tích cực, luôn luôn happy(tôi vẫn chưa làm được, chắc phải cần thời gian)
 - Nhận ra điểm yếu nữa của bản thân là giao tiếp rất tệ, nhiều người bảo tôi nhát, nhưng thực ra là do tôi không biết giao tiếp, không biết phải bắt đầu từ đâu, và rất dễ gây hiểu nhầm, thành ra đôi khi rất sợ phải giao tiếp, nhất là giao tiếp nói 1vs1. Chính vì thế có rất nhiều mối quan hệ cũng dần dần mất đi..
@@ -47,51 +51,6 @@ Năm 2019 đã giúp tôi trả lời câu hỏi trên rằng vì: Cuộc sống
 + \*escaped characters\*
 
 
-## Writing code blocks
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-```
-.my-link {
-    text-decoration: underline;
-}
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
 ```
 
 #### Python
