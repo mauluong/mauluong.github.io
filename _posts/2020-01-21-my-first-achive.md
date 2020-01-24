@@ -35,4 +35,5 @@ Giờ ngồi nghĩ lại năm 2019 tuy vất vả nhưng bản thân lại trả
 
 Cuối cùng thì chặng đường thứ nhất của bản thân đã hoàn thành, tuy đến những phút cuối mới thấy tiếc nuối một số thứ như điểm trác, về các mối quan hệ,..nhưng chặng đường thứ 2 vẫn còn đó, bản thân sẽ phải cố gắng rất nhiều..
 
-Viết xong rồi chuẩn bị đón giao thừa=))) 
+30 tết âm-2019..
+Viết vội mấy dòng cuối năm rồi chuẩn bị đón giao thừa=))) 
