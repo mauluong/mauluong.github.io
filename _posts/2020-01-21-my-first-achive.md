@@ -10,20 +10,15 @@ image: assets/images/doan.jpg
 
 Năm 2019 đã giúp tôi trả lời câu hỏi trên rằng vì: Cuộc sống chính là trải nghiệm, nếu sống mà không có trải nghiệm, không có thử thách thì chỉ là sự tồn tại.
 
-Cuối cùng thì chặng đường thứ nhất của bản thân đã hoàn thành, tuy đến những phút cuối mới thấy tiếc nuối một số thứ nhưng mọi thứ cũng đã kết thúc. 
-
-
-
-
 ## Quãng thời gian học ở FU
 
 Năm nhất, năm hai tôi có 2 cuộc sống kiểu kiểu như là song song:
 
-+ Thứ nhất là: ăn, học, EDM và LoL cùng với tml @Thành :laughing::laughing::laughing:. Sống cách biệt với Hà Nội, Thời gian này tôi chỉ có nó là thằng bạn thân duy nhất vì có chung đam mê EDM. Nhớ nhất là những lần đi EDM fes có mỗi 2 thằng, fes đầu tiên là "The Wave" 12/2015, 2 thằng đứng dưới mưa từ 5h chiều - 6h sáng :joy::joy::joy:.. rồi đợt Steve Aoki 2 đứa ngủ vật vờ trong bến xe buýt Mỹ Đình đợi đến sáng để bắt xe về Hòa Lạc (Lúc này làm méo gì có xe máy :sob:). Rồi 2 thằng ch**t qua môn, đ hiểu nó có môn CEA gì đó Final nó 9.0 rồi mà vẫn đ qua =)).. Sau này mỗi đứa một đam mê riêng, nó thì suốt ngày gym, còn tôi thì chuyển qua bộ môn Hardstyle, thế là dần dần cũng bớt thân đi..
++ Thứ nhất là: ăn, học, EDM và LoL cùng với tml Thành :laughing::laughing::laughing:. Sống cách biệt với Hà Nội, Thời gian này tôi chỉ có nó là thằng bạn thân duy nhất vì có chung đam mê EDM. Nhớ nhất là những lần đi EDM fes có mỗi 2 thằng, fes đầu tiên là "The Wave" 12/2015, 2 thằng đứng dưới mưa từ 5h chiều - 6h sáng :joy::joy::joy:.. rồi đợt Steve Aoki 2 đứa ngủ vật vờ trong bến xe buýt Mỹ Đình đợi đến sáng để bắt xe về Hòa Lạc (Lúc này làm méo gì có xe máy :sob:). Rồi 2 thằng ch**t qua môn, đ hiểu nó có môn CEA, Final nó 9.0 rồi mà vẫn đ qua, mừng hụt vl =)).. Sau này mỗi đứa một đam mê riêng, nó thì suốt ngày gym, còn tôi thì chuyển qua bộ môn Hardstyle, thế là dần dần cũng bớt thân đi..
 
 ![walking]({{ site.baseurl }}/assets/images/thanhml.jpg)
 
-+ Thứ 2 là: câu lạc bộ iGo và Color Team, tham gia các hoạt động được một năm, nhớ nhất là lần đi tình nguyện ỏ Quan Hóa vì đây chuyến tình nguyện xa đầu tiên và cũng là lần đầu tiên mình biết tiểu lượng của mình không phải dạng vừa =)) (chắc thừa hưởng từ bố). Nhưng rồi cũng chỉ được một năm, vì trầm tính và kém giao tiếp, bản thân dần dần tách biệt và ngưng hoạt động .Đến giờ cũng cảm thấy tiếc nuối và có lỗi với mọi người..
++ Thứ 2 là: câu lạc bộ iGo và Color Team, tham gia các hoạt động được một năm, với iGo nhớ nhất là lần đi tình nguyện ỏ Quan Hóa vì đây chuyến tình nguyện xa đầu tiên và cũng là lần đầu tiên mình biết tiểu lượng của mình không phải dạng vừa =)), còn Color Team thì là Đêm Nodel ở TT Bảo trợ xã hội 4. Nhưng rồi cũng chỉ được một năm, vì trầm tính và kém giao tiếp, bản thân dần dần tách biệt và ngưng hoạt động .Đến giờ cũng cảm thấy tiếc nuối và có lỗi với mọi người..
 
 ![walking]({{ site.baseurl }}/assets/images/colorteam.jpg)
 ![walking]({{ site.baseurl }}/assets/images/igo.jpg)
@@ -36,57 +31,8 @@ Nói về đồ án. lúc đầu mình khá là tự tin là team sẽ làm nên
 Rồi đợt đấy gia đình tôi còn sảy ra một biến cố về tiền nong, rồi hợp đồng cũ với Fsoft hết hạn, đắn đo giữa kí tiếp hay out
 Nhiều thứ tích tụ lại đâm ra tạo thành thói quen mất ngủ. Đêm nào cũng nằm suy nghĩ lung tung nhiều..
 
-Nhưng đến khi ngồi nghĩ lại 
-Suy nghĩ nhiều rồi nhận ra lâu nay mình đang sống vì bản thân mình nhiều, chưa nghĩ đến những người xung quanh. Nhận ra bản thân có rất nhiều điểm yếu, điển hình là việc giao tiếp rất tệ, nhiều người bảo tôi nhát, nhưng thực ra là do tôi không biết giao tiếp, không biết phải bắt đầu từ đâu, thành ra đôi khi rất sợ phải giao tiếp, nhất là giao tiếp nói 1vs1, hoặc cũng có thể do sợ giao tiếp dẫn đến nhát.. Chính vì thế có rất nhiều mối quan hệ cũng dần dần mất đi..
-Suy nghĩ nhiều rồi cũng vỡ ra nhiều điều:
-- Thay đổi lớn nhất có lẽ là ở mọi tình huống, tôi luôn cố gắng nhìn mặt tích cực trước, hoặc tìm ra những thứ tích cực, suy nghĩ tích cực hơn, điềm tĩnh hơn. Nói là cố gắng bởi vì bản thân vẫn chưa làm được..
-- Từ những người mình gặp, làm việc
-- 
-- Từ người anh HoangV nhận ra mình phải điểm tĩnh hơn và quan trọng nhất là luôn luôn suy nghĩ tích cực, luôn luôn happy(tôi vẫn chưa làm được, chắc phải cần thời gian)
-- Nhận ra điểm yếu nữa của bản thân là giao tiếp rất tệ, nhiều người bảo tôi nhát, nhưng thực ra là do tôi không biết giao tiếp, không biết phải bắt đầu từ đâu, và rất dễ gây hiểu nhầm, thành ra đôi khi rất sợ phải giao tiếp, nhất là giao tiếp nói 1vs1. Chính vì thế có rất nhiều mối quan hệ cũng dần dần mất đi..
-- 
+Giờ ngồi nghĩ lại năm 2019 tuy vất vả nhưng bản thân lại trải nghiệm được nhiều thứ, có làm đồ án mình mới biết làm product thích như thế nào, học được nhiều thứ cả về công nghệ lẫn kỹ năng mềm, ngộ ra được nhiều điều trong cuộc sống về cách ứng xử. Chỉ ra được những điểm yếu của bản thân, điển hình là việc giao tiếp rất tệ, nhiều người bảo tôi nhát, nhưng thực ra là do tôi không biết giao tiếp, không biết phải bắt đầu từ đâu, thành ra đôi khi rất sợ phải giao tiếp, nhất là giao tiếp nói 1vs1, hoặc cũng có thể do sợ giao tiếp nên bị nhát.. Chính vì thế có rất nhiều mối quan hệ cũng dần dần mất đi. Nhận ra lâu nay mình đang sống vì bản thân mình là nhiều...Nhận ra nhiều lúc mình cầu toàn quá đôi khi dẫn đến những suy nghĩ tiêu cực, lo lắng. Giữa năm 2019 cũng là lúc gặp lại anh Hoàng, chị Hạnh, ac chơi khá là hợp, dù chưa nói cảm ơn nhưng nhờ có anh chị mà tôi bớt tự kỷ hơn ở những lúc căng thẳng nhất. Cũng từ người anh HoangV nhận ra mình phải điểm tĩnh hơn và quan trọng nhất là luôn luôn suy nghĩ tích cực, luôn luôn happy(vẫn chưa làm được, chắc phải cần thời gian).
 
+Cuối cùng thì chặng đường thứ nhất của bản thân đã hoàn thành, tuy đến những phút cuối mới thấy tiếc nuối một số thứ như điểm trác, về các mối quan hệ,..nhưng chặng đường thứ 2 vẫn còn đó, bản thân sẽ phải cố gắng rất nhiều..
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
-
-
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
-
-
-
-
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-## Reference lists
-
-The quick brown jumped over the lazy.
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+Viết xong rồi chuẩn bị đón giao thừa=))) 
