@@ -3,7 +3,7 @@ layout: post
 title:  "[2019 RECAP] - Kết thúc chặng đường đầu tiên.. "
 published: true
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [ life ]
 image: assets/images/doan.jpg
 ---
 > Nếu như ai rồi cũng phải chết thì sao ta vãn phải sống để làm gì nhỉ?
